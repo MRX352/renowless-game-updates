@@ -1,1 +1,14 @@
-{"schema":1,"build":12,"contentRevision":1,"releaseUrl":"","stories":["Lia deixou uma transmissão: alguém apagou a lista de evacuação.","Íris encontrou a falha: três relés devem trabalhar em sequência.","A memória de Maurício revela o preço de conter a ruptura.","O Vigia de Cinzas guarda o último amuleto da escola.","As raízes preservam nomes que a ruptura tentou apagar.","O Juiz da Ruptura exige que toda promessa tenha um preço."]}
+{
+  "schema": 1,
+  "build": 13,
+  "contentRevision": 2,
+  "releaseUrl": "https://github.com/MRX352/renowless-game-updates/releases/tag/v1.3",
+  "stories": [
+    "Lia deixou uma transmissão: alguém apagou a lista de evacuação.",
+    "Íris encontrou a falha: três relés devem trabalhar em sequência.",
+    "A memória de Maurício revela o preço de conter a ruptura.",
+    "O Vigia de Cinzas guarda o último amuleto da escola.",
+    "As raízes preservam nomes que a ruptura tentou apagar.",
+    "O Coração da Ruptura exige um preço por cada verdade revelada."
+  ]
+}
